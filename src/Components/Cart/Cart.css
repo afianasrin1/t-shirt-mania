@@ -1,0 +1,10 @@
+.orange {
+  background-color: orange;
+}
+.gray {
+  background-color: blue;
+}
+.bold {
+  font-weight: bold;
+  background-color: rgb(0, 255, 76);
+}

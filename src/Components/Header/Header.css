@@ -1,0 +1,9 @@
+.header a {
+  margin-right: 25px;
+  text-decoration: none;
+}
+.header {
+  background-color: antiquewhite;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
